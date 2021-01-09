@@ -1,0 +1,4 @@
+Jonas, 10
+Eglė,20
+Jurga,50
+Juras,45
